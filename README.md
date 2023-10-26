@@ -1,2 +1,2 @@
-# BARBEARIA-ALURA
-programação alura no atom linguagem css/html
+# alura_barbearia
+projeto barbearia html css alura
